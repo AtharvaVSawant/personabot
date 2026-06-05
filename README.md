@@ -6,6 +6,8 @@
 ![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3%2070B-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+![PersonaBot Demo](assets/demo.gif)
+
 A Streamlit-based conversational AI chatbot that adapts its tone and style based on a selected persona. Powered by **LLaMA 3.3 70B** via **Groq** and built with **LangChain**.
 
 ---

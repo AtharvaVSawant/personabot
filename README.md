@@ -35,7 +35,7 @@ A Streamlit-based conversational AI chatbot that adapts its tone and style based
 
 ```
 personabot/
-├── app.py               # Main Streamlit application
+├── PersonaBot.py               # Main Streamlit application
 ├── requirements.txt     # Python dependencies
 ├── assets/
 │   └── demo.gif

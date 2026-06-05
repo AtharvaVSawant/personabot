@@ -6,7 +6,6 @@ load_dotenv()
 
 model = ChatGroq(model = "llama-3.3-70b-versatile",temperature = 0.7,max_tokens = 2048)
 
-
 # ---------------- PAGE ----------------
 st.set_page_config(
     page_title="AI Assistant Chatbot",

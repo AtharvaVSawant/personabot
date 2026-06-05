@@ -37,11 +37,14 @@ A Streamlit-based conversational AI chatbot that adapts its tone and style based
 personabot/
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # Python dependencies
-├── .env.example         # API key template (safe to commit)
+├── assets/
+│   └── demo.gif
 ├── .gitignore           # Excludes .env and cache files
 ├── LICENSE              # MIT License
 └── README.md            # Project documentation
 ```
+
+...
 
 > ⚠️ The actual `.env` file is **never committed**. Only `.env.example` (with no real keys) is included in the repo.
 

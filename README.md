@@ -10,7 +10,7 @@
 
 ## ☁️ Deployed on Streamlit Cloud 
 
-> 🌐 **Live App:** [personabot-ai.streamlit.app](https://personabot-ai.streamlit.app/)
+> 🌐 **Live App:** [personabot-ai.streamlit.app]( https://personabot-ai.streamlit.app/)
 
 A Streamlit-based conversational AI chatbot that adapts its tone and style based on a selected persona. Powered by **LLaMA 3.3 70B** via **Groq** and built with **LangChain**.
 

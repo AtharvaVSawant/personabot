@@ -97,7 +97,7 @@ GROQ_API_KEY=your_groq_api_key_here
 ### 5. Run the App
 
 ```bash
-streamlit run app.py
+streamlit run PersonaBot.py
 ```
 
 The app will open at `http://localhost:8501`
